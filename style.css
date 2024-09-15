@@ -22,13 +22,13 @@ body > header > nav > ul {
 
 body > header {
     background-color: orange;
-    margin-left: 0%;
+    margin-left: 5%;
     margin-right: 0%;
     color: white;
     display: flex;
     height: 12vh;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 
