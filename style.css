@@ -25,12 +25,15 @@ body > header {
     margin-left: 0%;
     margin-right: 0%;
     color: white;
+    display: flex;
+    height: 12vh;
+    align-items: center;
+    justify-content: space-around;
 }
 
-body > header > nav > ul > li {
-    display: flex;
-    flex-direction: row;
-}
+
+
+
 
 body > main  {
     width: 70%;
