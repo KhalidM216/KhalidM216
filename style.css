@@ -25,7 +25,11 @@ body > header {
     margin-left: 0%;
     margin-right: 0%;
     color: white;
-    flex:auto ;
+}
+
+body > header > nav > ul > li {
+    display: flex;
+    flex-direction: row;
 }
 
 body > main  {
